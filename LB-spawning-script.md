@@ -23,7 +23,7 @@ library(MCMCglmm)
 
 #### 1\. a. Temperature and male density
 
-Run a Generalize Linear Model: Regression of the mean number over the
+Generalized Linear Model: Mean number of males over the
 average redd temperature.
 
 ``` r
